@@ -1,0 +1,1 @@
+// JavaScript logic from previous responses
